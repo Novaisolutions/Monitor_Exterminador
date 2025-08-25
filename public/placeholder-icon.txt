@@ -1,0 +1,13 @@
+Recuerda crear dos archivos de íconos para la PWA:
+
+1. public/Logo_cenyca.jpeg (192x192 pixels)
+2. public/Logo_cenyca.jpeg (512x512 pixels)
+
+Estos íconos son necesarios para que la PWA funcione correctamente y pueda instalarse en dispositivos móviles.
+
+Puedes usar cualquier herramienta de diseño como Figma, Photoshop, o servicios en línea como:
+- https://www.pwabuilder.com/imageGenerator
+- https://app.logo.com/
+- https://realfavicongenerator.net/
+
+Una vez que tengas los íconos, cópialos en el directorio "public" del proyecto. 
