@@ -1,0 +1,21 @@
+{
+  "name": "Novai Monitor",
+  "short_name": "Novai",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4119a9",
+  "description": "Aplicación para monitoreo y chat de Novai",
+  "icons": [
+    {
+      "src": "/Logo_Mayo Dental.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/Logo_Mayo Dental.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+} 
